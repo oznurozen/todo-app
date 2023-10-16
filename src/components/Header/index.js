@@ -5,7 +5,7 @@ function Header() {
   return (
     <>
     <header className="header">
-        <h1># -- Yapılacaklar Listesi -- #</h1>
+        <h1>Yapılacaklar Listesi</h1>
        <HeaderForm/>
     </header>
 
